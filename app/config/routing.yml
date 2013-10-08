@@ -1,0 +1,4 @@
+kayo_crud:
+    resource: "@KayoCrudBundle/Resources/config/routing.yml"
+    prefix:   /
+
